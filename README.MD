@@ -18,8 +18,10 @@ Game 1:
 Player A rolls 2 dice, which come up 5 and 6. A total: 11.
 Player B rolls 2 dice, which come up 3 and 4. B total: 7.
 Player A rolls 2 dice, which come up 5 and 5. A total: 21. A loses.
+
 Game 2:
 Player A rolls 2 dice, which come up 3 and 4. A total: 7. Player B rolls 2 dice, which come up 5 and 6. B total: 11. Player A rolls 2 dice, which come up 3 and 1. A total: 11. Player B rolls 1 die, which comes up 4. B total: 15. B wins.
+
 Game 3:
 Player A rolls 2 dice, which come up 3 and 4. A total: 7. Player B rolls 2 dice, which come up 1 and 4. B total: 5. Player A rolls 2 dice, which come up 2 and 5. A total: 14. Player B rolls 2 dice, which come up 3 and 5. B total: 13. Player A rolls 1 die, which comes up 1. A total: 15. A wins.
 
